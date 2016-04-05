@@ -9,6 +9,7 @@ windows版
 ####编辑器
 + sublime text 3<br>
 安装配置方法：[https://github.com/wghe110/sublime-green](https://github.com/wghe110/sublime-green)
+
 ####切图工具
 + ps cc 2015<br>[网盘下载](http://pan.baidu.com/s/1bOwyPS)
 + ai cc <br>[网盘下载](http://pan.baidu.com/s/1gfNM4Ht)
