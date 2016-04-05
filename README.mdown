@@ -1,0 +1,37 @@
+前端开发环境配置 window版
+========================
+*目的：方便重装系统后快速配置，适用我自己*<br>
+
+####编辑器
++ sublime text 3<br>
+安装配置方法：[https://github.com/wghe110/sublime-green](https://github.com/wghe110/sublime-green)
+####切图工具
++ ps cc 2015<br>[网盘下载](http://pan.baidu.com/s/1bOwyPS)
++ ai cc <br>[网盘下载](http://pan.baidu.com/s/1gfNM4Ht)
+
+####音频处理工具
++ au <br>[网盘下载](http://pan.baidu.com/s/1hshhduW)
+
+####scss编译软件
++ koala<br>[官网下载](http://koala-app.com/index-zh.html)<br>[网盘下载](http://pan.baidu.com/s/1b93tPO)<br>
+
+####语言环境
++ nodeJs<br>[官网下载](https://nodejs.org/en/)<br>
+
+####工具软件
++ 金山快盘同步盘<br>[官网下载](http://web.kuaipan.cn/d/pc)
++ git<br>[官网下载](https://git-scm.com/download/)
++ github<br>[官网下载](https://desktop.github.com/)<br>[网盘下载-离线包](http://pan.baidu.com/s/1ge7rp7d)<br>*能翻墙官网下载，翻不出去下载网盘离线包吧，版本可能旧点儿*
+
+####其他软件
+　　[网盘下载](http://pan.baidu.com/s/1pL272h9)
+
+####装机工具
++ 必应输入法<br>[官网下载](http://bing.msn.cn/pinyin/)
++ 网易云音乐<br>[官网下载](http://music.163.com/#/download)
++ 完美解码<br>[官网下载](http://jm.wmzhe.com/)
+
+--------------------------
+**持续更新.........**
+
+----------------------
